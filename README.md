@@ -4,7 +4,7 @@
 
 **Start Up:**
 ```
-`red $` cat <<EOF >hello.tgs
+:red $ cat <<EOF >hello.tgs
 $ proc main() {
 $     println("Hello, World");
 $ }
