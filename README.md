@@ -10,3 +10,14 @@ $     println("Hello, World");
 $ }
 $ EOF
 ```
+
+**Compile or build code:**
+```
+$ ./tgs -c <file.tgs>
+$ ./tgs -b <file.tgs>
+```
+
+**Get Help!**
+```
+$ ./tgs -h
+```
