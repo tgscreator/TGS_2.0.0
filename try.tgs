@@ -1,0 +1,4 @@
+proc main() {
+    c = 2;
+    println("Hello, World!\n");
+}
